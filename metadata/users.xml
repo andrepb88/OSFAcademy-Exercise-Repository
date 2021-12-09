@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="andrepacebojco@gmail.com" enabled-flag="true">
+        <credentials>
+            <external-id>ae5b91b5-77e8-4334-8507-65415b4a518f</external-id>
+        </credentials>
+        <profile>
+            <first-name>André Pace</first-name>
+            <last-name>Bojco</last-name>
+            <email>andrepacebojco@gmail.com</email>
+            <preferred-data-locale>none</preferred-data-locale>
+            <favorites>prod-cat_products,prod-cat_catalogs,sites_manage,customerlists_manage,contentlibraries_manage,studio_setup,studio_code_deployment,studio_system_obj,studio_custom_obj,customization_err,customization_impex,instance_setup,global-prefs_unsafeContentInjectionSettings</favorites>
+        </profile>
+    </user>
+
+</users>
